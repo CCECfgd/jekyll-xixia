@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "How to get beautiful ASCII pics and ASCII text"
+title:  " Multiscale cross-connected dehazing network with scene depth fusion[J]"
 categories: Programmer
 tags: Other
 author: Xixia
-description: 2 sites, one help to generate ASCII texts for you, another have lots of ASCII pics.
+description: IEEE Transactions on Neural Networks and Learning Systems, 2024, 35(2): 1598-1612.（中科院 1区TOP, CCF B）.
 ---
 
 ###  1，ASCII Generator
