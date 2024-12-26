@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  " Multiscale cross-connected dehazing network with scene depth fusion[J]"
+title:  "Multiscale cross-connected dehazing network with scene depth fusion[J]"
 categories: Programmer
 tags: Other
-author: Xixia
+author: Fan G
 description: IEEE Transactions on Neural Networks and Learning Systems, 2024, 35(2): 1598-1612.（中科院 1区TOP, CCF B）.
 ---
 
