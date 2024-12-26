@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective"
+title: "IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective"
 categories: Other
 tags: Other
 author: FanG
