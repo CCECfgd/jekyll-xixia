@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "论文1"
+title:  "IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective"
 categories: Other
 tags: Other
 author: FanG
-description: Fan G, Gan M#, Su JN et al. IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective, AAAI 2025（Accept, CCF A）
+description: Fan G, Gan M#, Su JN et al. , AAAI 2025（Accept, CCF A）
 ---
-Fan G, Gan M#, Su JN et al. IniRetinex: Rethinking Retinex-type Low-Light Image Enhancer via Initialization Perspective, AAAI 2025（Accept, CCF A）
