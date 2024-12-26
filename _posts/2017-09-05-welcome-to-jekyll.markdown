@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Multiscale low-light image enhancement network with illumination constraint[J]. IEEE Transactions on Circuits and Systems for Video Technology"
 date:   2017-09-05 14:10:51 +0800
 categories: Jekyll
 tags: Jekyll
-description: A simple example post page generate by Jekyll.
+description: 3.	Fan G, Fan B, Gan M#, et al.
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
